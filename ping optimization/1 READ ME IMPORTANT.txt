@@ -1,0 +1,21 @@
+Improve Ping
+
+Run Keyboard tweak
+Run Mouse tweak
+       
+        -Important-
+
+ Run "ImprovePing.Reg" ( For Ethernet and Wifi )
+
+ Run "TCPOptimizer" (To See Setting are Picture)
+ReBoot when it ask
+
+        	-Tips-
+
+Run TimerResolution when you play anygame (click 
+maximum)
+It will boost your game fps
+		-Me-
+i got 40 ping tho my old is 100-120
+
+if it not down your ping to 40 or more its the best your wifi/pc can run
